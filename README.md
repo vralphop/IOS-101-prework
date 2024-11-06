@@ -2,7 +2,7 @@
 
 Submitted by: **Valerie Ralph-Opara**
 
-**IOS101-Prework** is an app that... [changes the app's backgournd color when the user interacts with the change button] 
+**IOS101-Prework** is an app that changes the app's background color when the user interacts with the change button.
 
 Time spent: **1** hours spent in total
 
@@ -15,8 +15,8 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 Here is a walkthrough:
-<img src='https://imgur.com/a/XR5D7t7.gif' title='Video Walkthrough' alt='Video Walkthrough' />
-https://imgur.com/a/lVlmFGH
+<img src ='https://i.imgur.com/NoavCWP.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 
 
@@ -28,7 +28,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Valerie Ralph-Opara]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
