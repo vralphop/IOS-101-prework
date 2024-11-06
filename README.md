@@ -14,7 +14,9 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-<img src='https://github.com/vralphop/IOS101-Prework-prework/blob/main/prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Here is a walkthrough:
+<img src='https://imgur.com/a/XR5D7t7.gif' title='Video Walkthrough' alt='Video Walkthrough' />
+https://imgur.com/a/lVlmFGH
 
 
 
